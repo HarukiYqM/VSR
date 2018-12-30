@@ -3,7 +3,9 @@
 1. data Video clips from FRVSR datatrain.txt, clip each sequence with 10 frame.
       
      Todo: write script to create dataset
+     
            step：
+           
                   1.downsample each frame by 2, downsample each frame by 4.
                   
                   2. warp 10 frame as a sequence->into separate folder
